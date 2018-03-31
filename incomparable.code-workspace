@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "Backfill"
+		},
+		{
+			"path": "FeedParser"
+		},
+		{
+			"path": "WikiWriter"
+		},
+		{
+			"path": "Common"
+		}
+	]
+}
